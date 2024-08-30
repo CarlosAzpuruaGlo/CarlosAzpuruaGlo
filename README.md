@@ -12,7 +12,7 @@ I am committed to growing as a developer, always exploring new technologies and 
 
 ## 📫 Contact me:
 
-Feel free to reach out to me via my professional email: [carlos.azpurua@globant.com](mailto:carlos.azpurua@globant.com).
+Feel free to reach out to me via my professional email: [carlos.azpurua@globant.com](mailto:carlos.azpurua@globant.com)
 
 <!--
 **CarlosAzpuruaGlo/CarlosAzpuruaGlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
