@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20Carlos%20Azpurua's%20GitHub%20Professional%20Repository&fontSize=25)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20Carlos%20Azpurua's%20Professional%2GitHub%200Repository&fontSize=25)
 
 ### Software Engineer specializing in the MERN stack (MongoDB, Express, React, Node.js) and Svelte.
 
