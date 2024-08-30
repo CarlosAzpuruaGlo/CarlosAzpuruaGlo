@@ -2,7 +2,7 @@
 
 ### Software Engineer specializing in the MERN stack (MongoDB, Express, React, Node.js) and Svelte.
 
-## 🔭 Currently working at [Globant](https://www.globant.com/es)
+## 🔭 Innovating as a Glober: My Journey at [Globant](https://www.globant.com/es)
 
 At Globant, I contribute to digital transformation projects, leveraging my skills in software development to create innovative solutions. Being part of a team that blends creativity, design, and technology is an amazing experience.
 
